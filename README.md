@@ -20,5 +20,4 @@ The dataset consists of **50 customers** with the following attributes:
 - **Excel Dataset**  
 
 ## 📜 Project Files  
-- `dataset/` → Contains the customer dataset (`customer_segmentation_large.xlsx`).  
-- `images/` → Heatmaps and scatter plots generated from the analysis.  
+- `dataset/` → Contains the customer dataset (`Customer_Segmentation.xlsx`).  
