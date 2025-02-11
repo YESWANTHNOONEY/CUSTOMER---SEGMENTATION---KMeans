@@ -1,5 +1,24 @@
-# CUSTOMER---SEGMENTATION---KMeans
-his project applies K-Means clustering to segment customers based on Annual Income and Spending Score, helping businesses understand consumer behavior.  
-Key Features:  Segments customers into 4 groups using K-Means clustering. 
-Visualizes spending patterns with scatter plots &amp; heatmaps. 
-Provides insights for targeted marketing strategies.
+# Customer Segmentation Using K-Means Clustering
+
+Overview  
+This project applies **K-Means clustering** to segment customers based on their **Annual Income** and **Spending Score**, providing insights for data-driven decision-making.  
+
+📂 Dataset  
+The dataset consists of **50 customers** with the following attributes:  
+- Age  
+- Annual Income (USD)  
+- Spending Score (1-100)  
+
+📊 Insights & Analysis  
+- Segmented customers into **four groups** based on spending behavior.  
+- **Annual Income** plays a key role in customer segmentation.  
+- **Spending Score does not strongly correlate with Income**, indicating diverse spending patterns.  
+
+🔧 Technologies Used  
+- **Python** (Pandas, Seaborn, Matplotlib)  
+- **Jupyter Notebook   
+- **Excel Dataset**  
+
+## 📜 Project Files  
+- `dataset/` → Contains the customer dataset (`customer_segmentation_large.xlsx`).  
+- `images/` → Heatmaps and scatter plots generated from the analysis.  
